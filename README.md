@@ -18,8 +18,8 @@
 
 - 🔭 I’m working on [Patitek](http://www.patitek.com/).
 - 🤔 I’m looking for help with React/React Native and NodeJs documentation.
-- 💬 Ask me about Ionic plugin or any tech-related stuff.
-- ⚡ Fun fact: My dominant hand is left hand.
+- 💬 Ask me about Ionic or any tech-related stuff.
+- ⚡ Fun fact: My dominant hand is left.
 
 **Languages and Tools:**  
 
