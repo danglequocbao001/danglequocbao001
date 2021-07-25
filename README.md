@@ -17,7 +17,7 @@
 <br/>
 
 - 👨‍🎓 I'm a sophomore at [PTIT](http://hcm.ptit.edu.vn/).
-- 🔭 I’m working on [Patitek](http://www.patitek.com/).
+- 🔭 I’m working at [Patitek](http://www.patitek.com/).
 - 🤔 I’m looking for help with React/React Native and NodeJs documentation.
 - 💬 Ask me about Ionic or any tech-related stuff.
 - ⚡ Fun fact: My dominant hand is left.
