@@ -38,7 +38,7 @@
 
 ## Stats:
 <a href="https://github.com/danglequocbao001">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danglequocbao001&theme=tokyonight&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danglequocbao001&theme=tokyonight&hide_border=true&line_height=17&layout=compact" />
 </a>
 <a href="https://github.com/danglequocbao001">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danglequocbao001&show_icons=true&theme=tokyonight&hide_border=true" alt="Bao's github stats"/>
