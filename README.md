@@ -4,10 +4,10 @@
   <img align="left" alt="Pawan's Facebook" width="60px" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" />
 </a>
 <a href="https://twitter.com/baodang359">
-  <img align="left" alt="Bao's Twitter" width="35px" src="https://w7.pngwing.com/pngs/529/867/png-transparent-computer-icons-logo-twitter-miscellaneous-blue-logo-thumbnail.png" />
+  <img align="left" alt="Bao's Twitter" width="40px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/bao-dang-603807211/">
-  <img align="left" alt="Bao's Linkdein" width="36px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" />
+  <img align="left" alt="Bao's Linkdein" width="38px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" />
 </a>
 <a href="https://github.com/danglequocbao001">
   <img align="left" alt="Bao's Github" width="35px" src="https://e7.pngegg.com/pngimages/914/758/png-clipart-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-thumbnail.png" />
