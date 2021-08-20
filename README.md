@@ -13,9 +13,6 @@
   <img align="left" alt="Bao's Github" width="35px" src="https://e7.pngegg.com/pngimages/914/758/png-clipart-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-thumbnail.png" />
 </a>
 
-<br/>
-<br/>
-
 - 👨‍🎓 I'm a Junior at [PTIT](http://hcm.ptit.edu.vn/).
 - 🔭 I’m working at [PATITEK](http://www.patitek.com/)([@PATITEK](https://github.com/PATITEK)).
 - 🤔 I’m looking for help with React Native, NodeJs and MySQL documentations.
@@ -27,7 +24,7 @@
 <a href="https://github.com/microsoft/TypeScript">
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 </a>
-<a href="https://github.com/airbnb/javascript">
+<a href="https://www.javascript.com">
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 </a>
 <a href="https://www.java.com">
