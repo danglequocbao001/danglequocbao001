@@ -13,6 +13,9 @@
   <img align="left" alt="Bao's Github" width="35px" src="https://e7.pngegg.com/pngimages/914/758/png-clipart-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-thumbnail.png" />
 </a>
 
+<br/>
+<br/>
+
 - 👨‍🎓 I'm a Junior at [PTIT](http://hcm.ptit.edu.vn/).
 - 🔭 I’m working at [PATITEK](http://www.patitek.com/)([@PATITEK](https://github.com/PATITEK)).
 - 🤔 I’m looking for help with React Native, NodeJs and MySQL documentations.
