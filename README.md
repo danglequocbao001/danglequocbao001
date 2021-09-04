@@ -1,7 +1,7 @@
 ## Hello, I'm [Dang Le Quoc Bao](https://github.com/danglequocbao001)! 👋
 
 <a href="https://www.facebook.com/dagleqb03509/">
-  <img align="left" alt="Pawan's Facebook" width="60px" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" />
+  <img align="left" alt="Bao's Facebook" width="60px" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" />
 </a>
 <a href="https://twitter.com/baodang359">
   <img align="left" alt="Bao's Twitter" width="40px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
