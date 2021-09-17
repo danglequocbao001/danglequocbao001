@@ -49,6 +49,9 @@
 <a href="https://github.com/danglequocbao001">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danglequocbao001&theme=tokyonight&hide_border=true&line_height=17&layout=compact" />
 </a>
+<a href="https://github.com/danglequocbao001/Bessenger">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danglequocbao001&theme=tokyonight" />
+</a>
 <a href="https://github.com/danglequocbao001">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=danglequocbao001&show_icons=true&theme=tokyonight&hide_border=true" alt="Bao's github stats"/>
 </a>
@@ -59,9 +62,9 @@
 <div>
  <a href="https://github.com/danglequocbao001/CityGuide">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danglequocbao001&repo=CityGuide&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/danglequocbao001/Bessenger">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danglequocbao001&repo=Bessenger&theme=tokyonight&hide_border=true" />
-</a>
+ </a>
+ <a href="https://github.com/danglequocbao001/Bessenger">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danglequocbao001&repo=Bessenger&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
