@@ -10,7 +10,7 @@
   <img align="left" alt="Bao's Linkdein" width="38px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" />
 </a>
 <a href="https://github.com/danglequocbao001">
-  <img align="left" alt="Bao's Github" width="35px" src="https://e7.pngegg.com/pngimages/914/758/png-clipart-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-thumbnail.png" />
+  <img align="left" alt="Bao's Github" width="35px" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
 </a>
 
 <br/>
