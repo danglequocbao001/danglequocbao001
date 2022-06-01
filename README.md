@@ -17,7 +17,8 @@
 <br/>
 
 - 👨‍🎓 I'm a Junior at [PTIT](http://hcm.ptit.edu.vn/).
-- 🔭 I’m working at [PATITEK](http://www.patitek.com/)([@PATITEK](https://github.com/PATITEK)).
+- 🔭 I’m used to work at [PATITEK](http://www.patitek.com/)([@PATITEK](https://github.com/PATITEK)).
+- 🔭 I’m now finding a new job.
 - 🤔 I’m looking for help with React Native, NodeJs and MySQL documentations.
 - 💬 Ask me about Ionic/Angular or any tech-related stuff.
 - ⚡ Fun fact: My dominant hand is left.
