@@ -9,9 +9,9 @@
 <a href="https://www.linkedin.com/in/bao-dang-603807211/">
   <img align="left" alt="Bao's Linkdein" width="38px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/linkedin_logo_icon_147268.png" />
 </a>
-<!-- <a href="https://github.com/danglequocbao001">
-  <img align="left" alt="Bao's Github" width="35px" src="https://github.githubassets.com/images/mona-loading-dark.gif" />
-</a> -->
+<a href="https://github.com/danglequocbao001">
+  <img align="left" alt="Bao's Github" width="35px" src="https://github.githubassets.com/images/mona-loading.gif" />
+</a>
 
 <br/>
 <br/>
