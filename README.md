@@ -20,7 +20,7 @@
 <!-- - 🔭 I’m used to work at [PATITEK](http://www.patitek.com/)([@PATITEK](https://github.com/PATITEK)). -->
 - 🔭 I’m working at [Tego Global](https://tego.global/).
 - 🤔 I’m looking for help with NodeJs and MongoDB documentations.
-- 💬 Ask me about React/React Native, Ionic/Angular (Cordova & Capacitor) or any tech-related stuff.
+- 💬 Ask me about React/React Native, Ionic - ReactJs/Angular(Cordova & Capacitor) or any tech-related stuff.
 - ⚡ Fun fact: My dominant hand isn't right.
 
 **Languages:**
