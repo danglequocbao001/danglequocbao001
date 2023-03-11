@@ -18,9 +18,11 @@
 
 - 👨‍🎓 I'm a Junior at [PTIT](http://hcm.ptit.edu.vn/).
 <!-- - 🔭 I’m used to work at [PATITEK](http://www.patitek.com/)([@PATITEK](https://github.com/PATITEK)). -->
-- 🔭 I’m working at [Tego Global](https://tego.global/).
-- 🤔 I’m looking for help with NodeJs and MongoDB documentations.
-- 💬 Ask me about React/React Native, Ionic - ReactJs/Angular(Cordova & Capacitor) or any tech-related stuff.
+<!-- - 🔭 I’m used to work at [Tego Global](http://www.tego.global/). -->
+- 🔭 I’m working at [Workforceoptimizer](https://workforceoptimizer.com/).
+- 🔭 I’m also working at [Viego](https://apps.apple.com/us/app/id1568994159).
+- 🤔 I’m looking for help with ReactJs/React Native, NodeJs and MongoDB documentations.
+- 💬 Ask me about ReactJs/React Native, Ionic - ReactJs/Angular(Cordova & Capacitor), Javascript/Typescript or any tech-related stuff.
 - ⚡ Fun fact: My dominant hand isn't right.
 
 **Languages:**
