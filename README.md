@@ -69,4 +69,8 @@
  <a href="https://github.com/danglequocbao001/Bessenger">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=danglequocbao001&repo=Bessenger&theme=tokyonight&hide_border=true" />
   </a>
+  
+  |🏆GitHub Trophies| ✍️Random Dev Quote|
+  | --- | --- |
+  |![](https://github-profile-trophy.vercel.app/?username=danglequocbao001&theme=dracula&no-frame=true&no-bg=false&margin-w=4)| ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)|
 </div>
