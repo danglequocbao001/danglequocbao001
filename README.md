@@ -24,6 +24,7 @@
 - 🤔 I’m looking for help with ReactJs/React Native, NodeJs and MongoDB documentations.
 - 💬 Ask me about ReactJs/React Native, Ionic - ReactJs/Angular(Cordova & Capacitor), Javascript/Typescript or any tech-related stuff.
 - ⚡ Fun fact: My dominant hand isn't right.
+- "It's okay to lose people, but never lose yourself"
 
 **Languages:**
 
