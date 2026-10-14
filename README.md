@@ -1,6 +1,6 @@
 ## Hello, I'm [Dang Le Quoc Bao](https://danglequocbao001.github.io/portfolio/)!👋
 
-<a href="https://www.facebook.com/dagleqb03509/">
+<a href="https://https://www.facebook.com/baodang001/">
   <img align="left" alt="Bao's Facebook" width="60px" src="https://1000logos.net/wp-content/uploads/2021/04/Facebook-logo.png" />
 </a>
 <a href="https://twitter.com/baodang359">
